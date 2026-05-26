@@ -1,0 +1,12 @@
+[
+  { "especie": "charmander", "nombre": "Charmander", "tipos": ["Fuego"],            "ataque_base": 52,  "defensa_base": 43,  "velocidad_base": 65 },
+  { "especie": "squirtle",   "nombre": "Squirtle",   "tipos": ["Agua"],             "ataque_base": 48,  "defensa_base": 65,  "velocidad_base": 43 },
+  { "especie": "bulbasaur",  "nombre": "Bulbasaur",  "tipos": ["Planta"],           "ataque_base": 49,  "defensa_base": 49,  "velocidad_base": 45 },
+  { "especie": "pikachu",    "nombre": "Pikachu",    "tipos": ["Electrico"],        "ataque_base": 55,  "defensa_base": 40,  "velocidad_base": 90 },
+  { "especie": "geodude",    "nombre": "Geodude",    "tipos": ["Roca", "Tierra"],   "ataque_base": 80,  "defensa_base": 100, "velocidad_base": 20 },
+  { "especie": "pidgey",     "nombre": "Pidgey",     "tipos": ["Normal", "Volador"],"ataque_base": 45,  "defensa_base": 40,  "velocidad_base": 56 },
+  { "especie": "jynx",       "nombre": "Jynx",       "tipos": ["Hielo"],            "ataque_base": 50,  "defensa_base": 35,  "velocidad_base": 65 },
+  { "especie": "caterpie",   "nombre": "Caterpie",   "tipos": ["Bicho"],            "ataque_base": 30,  "defensa_base": 35,  "velocidad_base": 45 },
+  { "especie": "diglett",    "nombre": "Diglett",    "tipos": ["Tierra"],           "ataque_base": 55,  "defensa_base": 25,  "velocidad_base": 95 },
+  { "especie": "snorlax",    "nombre": "Snorlax",    "tipos": ["Normal"],           "ataque_base": 110, "defensa_base": 65,  "velocidad_base": 30 }
+]

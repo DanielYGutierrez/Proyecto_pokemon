@@ -1,0 +1,230 @@
+[
+  {
+    "clave": "1234",
+    "equipos": {
+      "azules": [
+        7576687
+      ]
+    },
+    "inventario": [
+      {
+        "ataque": 118,
+        "defensa": 70,
+        "duenio_original": "Daniel",
+        "especie": "snorlax",
+        "id": 7576687,
+        "movimientos": [
+          {
+            "nombre": "corte",
+            "poder_base": 50,
+            "tipo": "Normal"
+          },
+          {
+            "nombre": "golpe_cabeza",
+            "poder_base": 70,
+            "tipo": "Normal"
+          },
+          {
+            "nombre": "surf",
+            "poder_base": 90,
+            "tipo": "Agua"
+          },
+          {
+            "nombre": "onda_trueno",
+            "poder_base": 40,
+            "tipo": "Electrico"
+          }
+        ],
+        "rareza": "comun",
+        "velocidad": 32
+      },
+      {
+        "ataque": 55,
+        "defensa": 46,
+        "duenio_original": "Daniel",
+        "especie": "charmander",
+        "id": 2151425,
+        "movimientos": [
+          {
+            "nombre": "lanzallamas",
+            "poder_base": 90,
+            "tipo": "Fuego"
+          },
+          {
+            "nombre": "llamarada",
+            "poder_base": 90,
+            "tipo": "Fuego"
+          },
+          {
+            "nombre": "onda_trueno",
+            "poder_base": 40,
+            "tipo": "Electrico"
+          },
+          {
+            "nombre": "poder_pasado",
+            "poder_base": 60,
+            "tipo": "Roca"
+          }
+        ],
+        "rareza": "comun",
+        "velocidad": 69
+      },
+      {
+        "ataque": 57,
+        "defensa": 42,
+        "duenio_original": "Daniel",
+        "especie": "pikachu",
+        "id": 12027336,
+        "movimientos": [
+          {
+            "nombre": "voltio_cruel",
+            "poder_base": 80,
+            "tipo": "Electrico"
+          },
+          {
+            "nombre": "rayo",
+            "poder_base": 90,
+            "tipo": "Electrico"
+          },
+          {
+            "nombre": "lanza_mugre",
+            "poder_base": 55,
+            "tipo": "Tierra"
+          },
+          {
+            "nombre": "destructor",
+            "poder_base": 80,
+            "tipo": "Normal"
+          }
+        ],
+        "rareza": "comun",
+        "velocidad": 94
+      }
+    ],
+    "monedas": 30,
+    "monedas_acumuladas": 30,
+    "nombre": "Daniel",
+    "sobres": [
+      {
+        "abierto": true,
+        "id": 9616486,
+        "tipo": "basico"
+      }
+    ],
+    "victorias": 0
+  },
+  {
+    "clave": "1234",
+    "equipos": {
+      "rosita": [
+        5372004
+      ]
+    },
+    "inventario": [
+      {
+        "ataque": 58,
+        "defensa": 27,
+        "duenio_original": "Daniela",
+        "especie": "diglett",
+        "id": 5372004,
+        "movimientos": [
+          {
+            "nombre": "terremoto",
+            "poder_base": 100,
+            "tipo": "Tierra"
+          },
+          {
+            "nombre": "hueso_palo",
+            "poder_base": 65,
+            "tipo": "Tierra"
+          },
+          {
+            "nombre": "excavar",
+            "poder_base": 80,
+            "tipo": "Tierra"
+          },
+          {
+            "nombre": "lanzarrocas",
+            "poder_base": 50,
+            "tipo": "Roca"
+          }
+        ],
+        "rareza": "comun",
+        "velocidad": 101
+      },
+      {
+        "ataque": 59,
+        "defensa": 43,
+        "duenio_original": "Daniela",
+        "especie": "pikachu",
+        "id": 15696434,
+        "movimientos": [
+          {
+            "nombre": "electrobola",
+            "poder_base": 75,
+            "tipo": "Electrico"
+          },
+          {
+            "nombre": "chispa",
+            "poder_base": 65,
+            "tipo": "Electrico"
+          },
+          {
+            "nombre": "placaje",
+            "poder_base": 40,
+            "tipo": "Normal"
+          },
+          {
+            "nombre": "lanzallamas",
+            "poder_base": 90,
+            "tipo": "Fuego"
+          }
+        ],
+        "rareza": "comun",
+        "velocidad": 97
+      },
+      {
+        "ataque": 49,
+        "defensa": 43,
+        "duenio_original": "Daniela",
+        "especie": "pidgey",
+        "id": 5894660,
+        "movimientos": [
+          {
+            "nombre": "placaje",
+            "poder_base": 40,
+            "tipo": "Normal"
+          },
+          {
+            "nombre": "vuelo",
+            "poder_base": 90,
+            "tipo": "Volador"
+          },
+          {
+            "nombre": "zumbido",
+            "poder_base": 90,
+            "tipo": "Bicho"
+          },
+          {
+            "nombre": "voltio_cruel",
+            "poder_base": 80,
+            "tipo": "Electrico"
+          }
+        ],
+        "rareza": "comun",
+        "velocidad": 60
+      }
+    ],
+    "monedas": 0,
+    "monedas_acumuladas": 0,
+    "nombre": "Daniela",
+    "sobres": [
+      {
+        "abierto": true,
+        "id": 11916783,
+        "tipo": "basico"
+      }
+    ],
+    "victorias": 0
+  }
+]
